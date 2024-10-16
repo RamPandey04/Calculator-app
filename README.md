@@ -1,1 +1,1 @@
-# Calculator-app
+The Calculator App is a simple and intuitive web-based calculator built using HTML, CSS, and JavaScript. It allows users to perform basic arithmetic operations and is designed for easy use on both desktop and mobile devices.
